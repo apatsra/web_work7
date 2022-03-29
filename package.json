@@ -7,5 +7,8 @@
     "firebase": "9.6.0",
     "react-native-webview": "^11.17.2",
     "react-scripts": "^5.0.0"
+  },
+  "scripts": {
+    "start": "expo start"
   }
 }
